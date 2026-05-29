@@ -8,6 +8,7 @@ A blisteringly fast, framework-free e-commerce starter kit engineered specifical
 
 ### Frontpage Grid Layout
 ![Storefront Navigation](https://raw.githubusercontent.com/DeusExspiravit/aetheric-food-pantry-boilerplate/main/demo_web_loop_3.gif)
+![](https://raw.githubusercontent.com/DeusExspiravit/aetheric-food-pantry-boilerplate/main/demo_web_loop_5.gif)
 
 ### AI Shopping Assistant Drawer In Action
 ![AI Assistant Interaction](https://raw.githubusercontent.com/DeusExspiravit/aetheric-food-pantry-boilerplate/main/demo_web_demo_loop_4.gif)
