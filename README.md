@@ -53,10 +53,11 @@ When you purchase the commercial bundle, getting operational takes less than two
 1. Clone & Extract: Unzip your commercial download package into your workspace.
 
 2. Configure Environment: Rename .env.example to .env and insert your Shopify Storefront API keys:
-
-*SHOPIFY_STORE_DOMAIN=your-store.myshopify.com
+```text
+SHOPIFY_STORE_DOMAIN=your-store.myshopify.com
 SHOPIFY_STOREFRONT_TOKEN=your-private-token-here
-SHOPIFY_API_VERSION=2026-04*
+SHOPIFY_API_VERSION=2026-04
+```
 
 3. Run the Server: Launch your environment and see your pantry store instantly live at http://127.0.0.1:8000/.
 
