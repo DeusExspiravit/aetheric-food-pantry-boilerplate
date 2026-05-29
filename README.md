@@ -61,7 +61,7 @@ SHOPIFY_API_VERSION=2026-04*
 
 ---
 
-##📜 Commercial License Terms
+## 📜 Commercial License Terms
 Purchasing a license grants you full permissions to modify, customize, and deploy this codebase for unlimited personal, business, or client development projects. Standalone public redistribution or reselling of this source code structure is strictly prohibited under the Aetheric Labs Proprietary Agreement.
 
 ### 📦 [Click Here to Buy Your Production License Now](https://aethericlabs.lemonsqueezy.com/checkout/buy/125b4c80-01ad-4bef-9c88-aba27a91ad31)
